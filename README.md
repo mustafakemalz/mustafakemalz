@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://pbs.twimg.com/media/G8KPd47XkAYPtMQ?format=jpg&name=4096x4096" alt="muskz banner" />
+  <a href="https://mustafakemalz.github.io">
+    <img src="https://pbs.twimg.com/media/G8KPd47XkAYPtMQ?format=jpg&name=4096x4096" alt="muskz banner" />
+  </a>  
 </div>
 
 <div align="center">
