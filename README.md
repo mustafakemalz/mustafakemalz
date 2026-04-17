@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=707070&text=muskz&height=250&fontSize=120" alt="muskz banner" />
+  <img src="https://pbs.twimg.com/media/G8KPd47XkAYPtMQ?format=jpg&name=4096x4096" alt="muskz banner" />
 </div>
 
 <div align="center">
